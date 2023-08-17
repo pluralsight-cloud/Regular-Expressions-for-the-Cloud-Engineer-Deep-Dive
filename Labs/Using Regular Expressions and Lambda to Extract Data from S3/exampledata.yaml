@@ -1,0 +1,37 @@
+users:
+- name: Fox Mulder
+  firstname: Fox
+  lastname: Mulder
+  zipcode: 20530
+  email: mulderf@example.com
+  phone: (202) 555-4242
+- name: Dana Scully
+  firstname: Dana
+  lastname: Scully
+  zipcode: 22554
+  email: scullyd@example.com
+  phone: (202) 555-1202
+- name: Walter Skinner
+  firstname: Walter
+  lastname: Skinner
+  zipcode: 20101
+  email: skinnerw@example.com
+  phone: (202) 555-3333
+- name: Alex Krycek
+  firstname: Alex
+  lastname: Krycek
+  zipcode: 20740
+  email: kryceka@example.com
+  phone: (202) 555-4444
+- name: Monica Reyes
+  firstname: Monica
+  lastname: Reyes
+  zipcode: 20850
+  email: reyesm2@example.net
+  phone: (202) 555-5555
+- name: John Doggett
+  firstname: John
+  lastname: Doggett
+  zipcode: 20005
+  email: doggettj@example.net
+  phone: (202) 555-6666
