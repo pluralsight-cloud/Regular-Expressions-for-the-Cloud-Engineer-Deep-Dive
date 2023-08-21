@@ -1,0 +1,12 @@
+customer001:
+    firstname: Fox
+    lastname: Mulder
+    zipcode: 20530
+    email: mulderf@example.com
+    phone: (202) 555-4242
+customer002:
+    firstname: Dana
+    lastname: Scully
+    zipcode: 22554
+    email: scullyd@example.com
+    phone: (202) 555-1302
