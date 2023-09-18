@@ -1,0 +1,8 @@
+<h1>The X-Files Episodes</h1>
+<h2>Season 1</h2>
+<h3>Pilot</h3>
+<p>In the <i>Pilot</i> episode, two FBI agents, Fox Mulder and Dana Scully, are partnered up to investigate the X files, which are FBI cases involving unexplained phenomenon. In their first case together, they must investigate a series of mysterious deaths in a small Oregon town, where teens are dying--the only connection strange marks on their backs.</p>
+<h3>Deep Throat</h3>
+<p>Mulder and Scully investigate a case involving a test pilot who disappeared after expressing fears about his job at a military base. Mulder makes contact with a government informant regarding the nature of aliens.</p>
+<h3>Squeeze</h3>
+<p>The agents investigate a series of murders where the victims were squeezed to death and had their livers removed.</p>
