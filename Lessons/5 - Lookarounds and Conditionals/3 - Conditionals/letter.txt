@@ -1,0 +1,4 @@
+Hello world,
+What’s new in the world?
+Bye!
+
